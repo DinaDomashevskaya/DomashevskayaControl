@@ -1,0 +1,15 @@
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\bin\Debug\net6.0\Контрольная работа Домашевская.exe
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\bin\Debug\net6.0\Контрольная работа Домашевская.deps.json
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\bin\Debug\net6.0\Контрольная работа Домашевская.runtimeconfig.json
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\bin\Debug\net6.0\Контрольная работа Домашевская.dll
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\bin\Debug\net6.0\Контрольная работа Домашевская.pdb
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\obj\Debug\net6.0\Контрольная работа Домашевская.csproj.AssemblyReference.cache
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\obj\Debug\net6.0\Контрольная работа Домашевская.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\obj\Debug\net6.0\Контрольная работа Домашевская.AssemblyInfoInputs.cache
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\obj\Debug\net6.0\Контрольная работа Домашевская.AssemblyInfo.cs
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\obj\Debug\net6.0\Контрольная работа Домашевская.csproj.CoreCompileInputs.cache
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\obj\Debug\net6.0\Контрольная работа Домашевская.dll
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\obj\Debug\net6.0\refint\Контрольная работа Домашевская.dll
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\obj\Debug\net6.0\Контрольная работа Домашевская.pdb
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\obj\Debug\net6.0\Контрольная работа Домашевская.genruntimeconfig.cache
+C:\Users\Дина\Desktop\Контрольная работа Домашевская\obj\Debug\net6.0\ref\Контрольная работа Домашевская.dll
